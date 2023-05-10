@@ -1,6 +1,6 @@
 {
   "private": false,
-  "name": "@hffxx/react-overflow-box",
+  "name": "@ni2khanna/react-overflow-box",
   "version": "1.4.1",
   "description": "Implements mobile-like drag",
   "main": "build/index.js",
@@ -42,11 +42,8 @@
   "license": "MIT",
   "peerDependencies": {
     "clsx": "^1.2.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
-  },
-  "dependencies": {
-    "clsx": "^1.2.1"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^20.0.0",
